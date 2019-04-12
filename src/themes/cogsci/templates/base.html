@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="{{ SITEURL }}/theme/img/nvp.png" />
+		<title>{% block page_title %}{% endblock %}</title>
+		<link href="{{ SITEURL }}/theme/css/mega-menu.css" rel="stylesheet">
+		<link href="{{ SITEURL }}/theme/css/bootstrap.min.css" rel="stylesheet">
+		<link href="{{ SITEURL }}/theme/css/monokai.css" rel="stylesheet">
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<link href='https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Ubuntu+Mono|Roboto+Slab' rel='stylesheet' type='text/css'>
+		{% include "google-analytics.html" %}
+		{% include "cookie-consent.html" %}
+	</head>
+	<body>
+		<div id="fb-root"></div>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=332722297059150"></script>
+		<!-- Main container than contains everything -->
+		<div class="container cogsci-container osdoc">
+			<!-- Top banner -->
+			<div class="row visible-lg visible-md">
+				<div class="col-md-12 cogsci-banner-nvp"></div>
+			</div>
+			<!--  Top menu, only visible for small screens -->
+			<div class="row">
+				{% include 'mega-menu.html' %}
+			</div>
+			<!-- Main row containing both the sidebar and the content-->
+			<div class="row">
+				<!-- Content -->
+				<div class="col-md-12 cogsci-content-nvp">
+					{% block content %}
+					{% endblock %}
+				</div>
+			</div>
+			<div class="row cogsci-social-row-nvp visible-lg visible-md">
+				<div class="col-md-6">
+					<div class="fb-page" data-href="https://www.facebook.com/psychonoom" data-tabs="timeline" data-width="450" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/psychonoom" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/psychonoom">Psychonoom</a></blockquote></div>
+				</div>
+				<div class="col-md-6">
+					<a class="twitter-timeline" data-width="450" data-height="500" data-dnt="true" href="https://twitter.com/cogscinl?ref_src=twsrc%5Etfw">Tweets by cogscinl</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+			</div>
+			<!-- Footer -->
+			<div class="row">
+				<div class="col-md-12 cogsci-footer">
+					{% include 'footer.html' %}
+				</div>
+			</div>
+		</div>
+		<!-- Bootstrap/ jquery JavaScript -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+		<script src="{{ SITEURL }}/theme/js/osdoc.js"></script>
+	</body>
+</html>
