@@ -1,12 +1,10 @@
 title: Membership
 
 
-You can become a member by paying a contribution fee for a two-year membership. Payments are handled through PayPal (but you do not need to have a PayPal account yourself).
+The typical way to become a member of NVP is by registering for the Winter conference (and paying the membership fee at the same time). However, you can also become a member at any other time. In that case, contact the treasurer directly (see [about](/about) page).
 
 Membership fees (for two years):
 
 - For regular members: €25
 - PhD students and honorary members (emeriti): €15
-- For bachelor and master students: Free (Contact the [secretary](/about) to indicate that you would like to become a member)
-
-Click [here](https://to.do/) to pay your membership fee.
+- For bachelor and master students: Free

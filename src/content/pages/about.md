@@ -1,27 +1,28 @@
 title: About
 
-## De Nederlandse Vereniging voor Psychonomie (NVP)
 
-Nederland kent een rijke psychonomische traditie: eind 19e, begin 20e eeuw werden de eerste Nederlandse psychologische laboratoria ingericht door onder andere Franciscus Donders in Utrecht en Gerard Heymans in Groningen, waar onderzoek met een duidelijke psychonomische inslag verricht werd. In Nederland werd in 1968 de Stichting voor Psychonomie opgericht, die in 1985 overging in de Nederlandse Vereniging voor Psychonomie.
+## NVP: The Dutch Society for Brain and Cognition
 
-De Nederlandse Vereniging voor Psychonomie heeft als doelstelling het bevorderen van de psychonomie in Nederland. Het lidmaatschap van de Nederlandse Vereniging voor Psychonomie staat open voor iedereen die belangstelling heeft voor de psychonomie, maar de vereniging richt zich vooral op de actieve beoefenaars van de psychonomie.
+The Netherlands has a rich history when it comes to the scientific study of mind, brain, and behavior (psychonomics). At the end of the nineteenth century, the first psychological laboratories were founded by Franciscus Donders in Utrecht and Gerard Heymans in Groningen. In these laboratories, Donders and Heymans conducted groundbreaking studies; many of these are still the basis of research that is done today. In 1968, the *Stichting voor Psychonomie* (Psychonomic Foundation) was founded. In 1985, this evolved into the *Nederlandse Verening voor Psychonomie* (Dutch Society for Psychonomics, or: Dutch Society for Brain and Cogntion). To its members, the society is best known by its abbreviation: *NVP*.
 
-Belangrijke activiteiten van de vereniging zijn het uitgeven van het vakblad “De Psychonoom”, het organiseren van het drukbezochte tweejaarlijkse NVP Wintercongres, en de organisatie cursussen voor psychonomen voor zover hierin niet voorzien wordt door de universiteiten. Verder treedt de Vereniging op als spreekbuis van de Nederlandse psychonomie, bijvoorbeeld richting de overheid, NWO, of buitenlandse zusterverenigingen.
+NVP aims to promote research on brain and cognition in the Netherlands and (from our perspective) abroad. Anyone with an interest in research on brain and cognition can become a member. But the focus of the society is on active researchers as well as on students with an interest in research.
+
+The most important activity of NVP is the organization of the NVP Winter Conference, which takes place once every two years. In addition, NVP organizes specialist courses for researchers. And NVP engages with the Dutch government, funding agencies, and like-minded societies from other fields and countries, always with the aim to promote research on brain and cognition in every possible way.
 
 
-## Bestuur
+## Executive board
 
-Het bestuur van de NVP is als volgt samengesteld:
+The NVP executive board consists of:
 
-- Voorzitter: Prof. dr. Heleen Slagter. VU Universiteit Amsterdam
-- Secretaris: Dr. Roy de Kleijn, Universiteit Leiden
-- Penningmeester: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
-- Bestuurslid: Drs. Friederike Behrens, Universiteit Leiden
-- Bestuurslid: Dr . Artem Belopolsky, Vrije Universiteit Amsterdam
-- Bestuurslid: Dr. Johannes Fahrenfort, Vrije Universiteit Amsterdam
-- Bestuurslid: Dr. Sebastiaan Mathôt, Rijksuniversiteit Groningen
+- President: Prof. dr. Heleen Slagter. VU Universiteit Amsterdam
+- Secretary: Dr. Roy de Kleijn, Universiteit Leiden
+- Treasurer: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
+- Executive member: Drs. Friederike Behrens, Universiteit Leiden
+- Executive member: Dr . Artem Belopolsky, Vrije Universiteit Amsterdam
+- Executive member: Dr. Johannes Fahrenfort, Vrije Universiteit Amsterdam
+- Executive member: Dr. Sebastiaan Mathôt, Rijksuniversiteit Groningen
 
-Secretariaat:
+Secretary:
 
 Dr. Roy de Kleijn  
 Pieter de la Court Gebouw  
