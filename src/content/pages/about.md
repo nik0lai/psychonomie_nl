@@ -10,6 +10,11 @@ NVP aims to promote research on brain and cognition in the Netherlands and (from
 The most important activity of NVP is the organization of the NVP Winter Conference, which takes place once every two years. In addition, NVP organizes specialist courses for researchers. And NVP engages with the Dutch government, funding agencies, and like-minded societies from other fields and countries, always with the aim to promote research on brain and cognition in every possible way.
 
 
+## The study of mind, brain, and behavior
+
+Cognitive psychology. Cognitive neuroscience. Experimental Psychology. Psychonomics. All of these terms refer, perhaps in slightly different ways, to the study of *mind, brain, and behavior*. Researchers in these fields investigate things such as *perception and attention*: How can we make sense of all the input with which are senses are bombarded? And *learning and memory*: How do we use experiences from the past to behave more adaptively in the future? And *language*: How do we convey information about the world through symbols and sounds? And *emotion*: Why do some things trigger such strong emotional responses, and how does this affect our behavior? And *decision making*: Why are seemingly rational decisions so often driven by irrational heuristics? And many other things. Because the mind offers so much to study!
+
+
 ## Executive board
 
 The NVP executive board consists of:
@@ -18,9 +23,9 @@ The NVP executive board consists of:
 - Secretary: Dr. Roy de Kleijn, Universiteit Leiden
 - Treasurer: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
 - Executive member: Drs. Friederike Behrens, Universiteit Leiden
-- Executive member: Dr . Artem Belopolsky, Vrije Universiteit Amsterdam
-- Executive member: Dr. Johannes Fahrenfort, Vrije Universiteit Amsterdam
+- Executive member: Dr. Johannes Fahrenfort, Universiteit van Amsterdam
 - Executive member: Dr. Sebastiaan Mathôt, Rijksuniversiteit Groningen
+- Executive member: Prof. dr. Joke Baas, Universiteit Utrecht
 
 Secretary:
 
@@ -29,3 +34,10 @@ Pieter de la Court Gebouw
 Postbus 9555  
 2300 RB Leiden  
 Phone: 071-5273407
+
+Past executive-board members (incomplete list!):
+
+- Monicque Lorist, Rijksuniversiteit Groningen
+- Artem Belopolsky, Vrije Universiteit, Amsterdam
+- Stefan van der Stigchel, Universiteit Utrecht
+- Mariska Kret, Universteit Leiden

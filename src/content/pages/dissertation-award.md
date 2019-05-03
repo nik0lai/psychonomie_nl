@@ -13,4 +13,13 @@ Dissertations that were defended in 2018 or 2019 (i.e. after the 2017 winter con
 
 ## Previous winners
 
-Previous winners include Frans Verstraten, Eric-Jan Wagenmakers, Eveline Crone, Floris de Lange, and Sebastiaan Mathôt.
+- 2017: Anne Urai
+- 2015: Iris Groen
+- 2013: Sebastiaan Mathôt
+- 2011: Myrthe Plaisier
+- 2009: Floris de Lange
+- 2007: Ryota Kanai
+- 2005: Eveline Crone
+- 2003: Eric-Jan Wagenmakers
+
+And others, including Maarten van der Smagt, Frank Zaal, and Frans Verstraten!
