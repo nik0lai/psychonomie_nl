@@ -35,9 +35,18 @@ Postbus 9555
 2300 RB Leiden  
 Phone: 071-5273407
 
-Past executive-board members (incomplete list!):
 
-- Monicque Lorist, Rijksuniversiteit Groningen
+## Past members of the executive board
+
+The following people were previously part of the NVP executive board. This list is incomplete!
+
+- Albert Kok, Universiteit van Amsterdam
 - Artem Belopolsky, Vrije Universiteit, Amsterdam
-- Stefan van der Stigchel, Universiteit Utrecht
+- Edward de Haan, Universiteit van Amsterdam
+- Jaap Murre, Universiteit van Amsterdam
+- Laura Steenbergen, Universiteit Leiden
+- Lorenza Colzato, Universiteit Leiden
 - Mariska Kret, Universteit Leiden
+- Monicque Lorist, Rijksuniversiteit Groningen
+- Richard Ridderinkhof, Universiteit van Amsterdam
+- Stefan van der Stigchel, Universiteit Utrecht
