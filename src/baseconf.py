@@ -4,9 +4,14 @@ from __future__ import unicode_literals
 import os
 
 LOCALE = 'en_US'
-MARKDOWN = {}
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {},
+    },
+}
 AUTHOR = u'Sebastiaan Math\xf4t'
 SITENAME = u'Dutch Society for Brain and Cognition'
+
 STATIC_PATHS = ['pages']
 ROOT_PATH = os.getcwd()
 OUTPUT_PATH = 'output/'

@@ -29,10 +29,10 @@ The NVP executive board consists of:
 
 Secretary:
 
-Dr. Roy de Kleijn  
-Pieter de la Court Gebouw  
-Postbus 9555  
-2300 RB Leiden  
+Dr. Roy de Kleijn
+Pieter de la Court Gebouw
+Postbus 9555
+2300 RB Leiden
 Phone: 071-5273407
 
 
@@ -50,3 +50,16 @@ The following people were previously part of the NVP executive board. This list 
 - Monicque Lorist, Rijksuniversiteit Groningen
 - Richard Ridderinkhof, Universiteit van Amsterdam
 - Stefan van der Stigchel, Universiteit Utrecht
+
+
+## Honorary members
+
+Occasionally, NVP awards an honorary medal to people who have, in one form or another, greatly contributed to the field. The following people have been awarded so far:
+
+- Hans Smits
+- Maarten Bouman
+- Andries Sanders
+- Pim Levelt
+- John Michon
+- Nico Frijda
+- Gezinus Wolters
