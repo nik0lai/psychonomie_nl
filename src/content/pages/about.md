@@ -20,7 +20,7 @@ Cognitive psychology. Cognitive neuroscience. Experimental Psychology. Psychonom
 The NVP executive board consists of:
 
 - President: Prof. dr. Heleen Slagter. VU Universiteit Amsterdam
-- Secretary: Dr. Roy de Kleijn, Universiteit Leiden
+- Secretary: Dr. ir. Roy de Kleijn, Universiteit Leiden
 - Treasurer: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
 - Executive member: Drs. Friederike Behrens, Universiteit Leiden
 - Executive member: Dr. Johannes Fahrenfort, Universiteit van Amsterdam
