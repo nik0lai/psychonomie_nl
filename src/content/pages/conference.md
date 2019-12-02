@@ -1,5 +1,10 @@
 title: NVP Winter Conference
 
+
+<div class="alert alert-info" markdown="1">
+Wondering <a href="#what-happened-to-the-registration-site">what happened to the registration site?</a>
+</div>
+
 <div class="cogsci-content">
 <img src="/pages/img/banner.png" />
 </div>
@@ -176,3 +181,17 @@ Speakers:
 - Leonie Balter
 - Laura Steenbergen
 - Mirjam Bloemendaal
+
+
+## Programs of previous editions
+
+Relive the past by browsing through the programs of previous years!
+
+- [2017](/pages/attachments/nvp2017.pdf)
+- [2015](/pages/attachments/nvp2015.pdf)
+- [2013](/pages/attachments/nvp2013.pdf)
+
+
+## What happened to the registration site?
+
+You may have registered for NVP through a special registration site. We had to take this site offline, because there appeared to be vulnerabilities in the software package that caused the site to get hacked. Therefore we created this static page as a replacement. We apologize for the inconvenience and any confusion that this may have caused!
