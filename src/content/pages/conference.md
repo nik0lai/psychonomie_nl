@@ -61,25 +61,9 @@ University of Oxford, Oxford, UK <br />
 Link: <https://www.ohba.ox.ac.uk/team/kia-nobre-1>
 
 
-### Registration
+### Registration (closed)
 
-Registration for NVP 2019 includes a 2 night stay in a shared or private room in Hotel Zuiderduin, as well as breakfast, lunch, dinner, conference fee, and a two-year NVP membership fee.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5M33C9AX4XZTA">
-<table>
-<tr><td><input type="hidden" name="on0" value="Select your registration type">Select your registration type</td></tr><tr><td><select name="os0">
-	<option value="Single room (late fee)">Single room (late fee) €465,00 EUR</option>
-	<option value="Shared room (late fee)">Shared room (late fee) €415,00 EUR</option>
-	<option value="Startup company - Single room">Startup company - Single room €675,00 EUR</option>
-	<option value="Company - Single room">Company - Single room €875,00 EUR</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="EUR">
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+Registration for NVP 2019 has now been closed.
 
 
 ### Symposia
