@@ -56,10 +56,11 @@ The following people were previously part of the NVP executive board. This list 
 
 Occasionally, NVP awards an honorary medal to people who have, in one form or another, greatly contributed to the field. The following people have been awarded so far:
 
-- Hans Smits
 - Maarten Bouman
-- Andries Sanders
+- Nico Frijda
+- Edward de Haan
 - Pim Levelt
 - John Michon
-- Nico Frijda
+- Andries Sanders
+- Hans Smits
 - Gezinus Wolters
