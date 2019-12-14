@@ -15,6 +15,11 @@ The most important activity of NVP is the organization of the NVP Winter Confere
 Cognitive psychology. Cognitive neuroscience. Experimental Psychology. Psychonomics. All of these terms refer, perhaps in slightly different ways, to the study of *mind, brain, and behavior*. Researchers in these fields investigate things such as *perception and attention*: How can we make sense of all the input with which are senses are bombarded? And *learning and memory*: How do we use experiences from the past to behave more adaptively in the future? And *language*: How do we convey information about the world through symbols and sounds? And *emotion*: Why do some things trigger such strong emotional responses, and how does this affect our behavior? And *decision making*: Why are seemingly rational decisions so often driven by irrational heuristics? And many other things. Because the mind offers so much to study!
 
 
+## Ethics and integrity
+
+NVP members are expected to act ethically and with integrity in all their scientific activities.
+
+
 ## Executive board
 
 The NVP executive board consists of:

@@ -37,9 +37,9 @@ For those of you who registered for a shared room and have not yet submitted the
 ## Program
 
 
-### Concept program
+### Program and timetable
 
-You can download a PDF of the concept program [here](https://drive.google.com/open?id=16uSWQveaZDIgpnOGBZ3kIceD6AHmxD6H).
+You can download a PDF of the program [here](https://drive.google.com/open?id=1kaXI0qyLzM3Bt28bxsMUTGl34XNjRk2X).
 
 
 ### Keynote speakers
