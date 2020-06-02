@@ -1,8 +1,10 @@
 title: NVP Winter Conference
 
 
-<div class="alert alert-info" markdown="1">
-Wondering <a href="#what-happened-to-the-registration-site">what happened to the registration site?</a>
+<div class="alert alert-warning" markdown="1">
+
+<b>This page has been archived —</b> The 17th NVP winterconference was held in December 2019. The next NVP winterconference will be held in December 2021. This page will updated as the date approaches.
+
 </div>
 
 <div class="cogsci-content">
