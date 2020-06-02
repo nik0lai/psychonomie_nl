@@ -39,7 +39,7 @@ For those of you who registered for a shared room and have not yet submitted the
 
 ### Program and timetable
 
-You can download a PDF of the program [here](https://drive.google.com/open?id=1kaXI0qyLzM3Bt28bxsMUTGl34XNjRk2X).
+You can download a PDF of the program [here](https://drive.google.com/open?id=1pTvREzExjfnvXZcOPL9dZdSns0DVTWGW).
 
 
 ### Keynote speakers
