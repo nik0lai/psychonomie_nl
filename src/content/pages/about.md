@@ -20,6 +20,11 @@ Cognitive psychology. Cognitive neuroscience. Experimental Psychology. Psychonom
 NVP members are expected to act ethically and with integrity in all their scientific activities.
 
 
+## Diversity and inclusion
+
+NVP is committed to work for inclusion, equity and diversity in our field. We recognize that racism, sexism and other forms of discrimination damage and limit scientific careers. In addition, they limit scientific progress by reducing the diversity of unique and varied perspectives that make up science. We have compiled [a list of internet resources](/diversity) with information on how to enhance diversity and mitigate implicit bias in our field and science more generally.
+
+
 ## Executive board
 
 The NVP executive board consists of:
