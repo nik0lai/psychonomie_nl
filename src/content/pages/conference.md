@@ -6,8 +6,6 @@ The next NVP winterconference will be held in person on 16-19 December 2021 in E
  
 Below you find the archived NVP 2019 winter conference information. 
 
-<b>This page has been archived —</b> The 17th NVP winterconference was held in December 2019. The next NVP winterconference will be held in December 2021. This page will updated as the date approaches.
-
 </div>
 
 <div class="cogsci-content">
