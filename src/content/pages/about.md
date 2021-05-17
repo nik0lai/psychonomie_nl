@@ -1,5 +1,8 @@
 title: About
 
+## Overview
+
+[TOC]
 
 ## NVP: The Dutch Society for Brain and Cognition
 
@@ -30,20 +33,18 @@ NVP is committed to work for inclusion, equity and diversity in our field. We re
 The NVP executive board consists of:
 
 - President: Prof. dr. Heleen Slagter. VU Universiteit Amsterdam
-- Secretary: Dr. ir. Roy de Kleijn, Universiteit Leiden
 - Treasurer: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
-- Executive member: Drs. Friederike Behrens, Universiteit Leiden
-- Executive member: Dr. Johannes Fahrenfort, Universiteit van Amsterdam
+- Secretary: Dr. Michelle Achterberg
+- Executive member: Prof. dr. Alexander Sack
+- Executive member: Nicolás Sánchez-Fuenzalida, MSc
 - Executive member: Dr. Sebastiaan Mathôt, Rijksuniversiteit Groningen
 - Executive member: Prof. dr. Joke Baas, Universiteit Utrecht
 
 Secretary:
 
-Dr. Roy de Kleijn
-Pieter de la Court Gebouw
-Postbus 9555
-2300 RB Leiden
-Phone: 071-5273407
+Dr. Michelle Achterberg  <br />
+Burg. Oudlaan 50  <br />
+3062 PA Rotterdam
 
 
 ## Past members of the executive board
@@ -66,6 +67,7 @@ The following people were previously part of the NVP executive board. This list 
 
 Occasionally, NVP awards an honorary medal to people who have, in one form or another, greatly contributed to the field. The following people have been awarded so far:
 
+- Peter Hagoort
 - Maarten Bouman
 - Nico Frijda
 - Edward de Haan
@@ -74,3 +76,12 @@ Occasionally, NVP awards an honorary medal to people who have, in one form or an
 - Andries Sanders
 - Hans Smits
 - Gezinus Wolters
+
+
+## Diversity and Inclusion Committee
+
+- Dr. Teresa Schuhmann (Chair; Maastricht University)
+- Dr. Anne Urai (Leiden University)
+- Dr. Elkan Akyurek (Groningen University)
+- Dr. Helen Tiboel (Rotterdam University)
+- Nicolás Sánchez-Fuenzalida, MSc (University of Amsterdam)

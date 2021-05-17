@@ -56,6 +56,27 @@ At the Winter Conference, the Society will award the Early Career Award to an ea
 For more information and eligibility criteria, <a href="/early-career-award">this page</a>.
 
 
+## Organizing Committee 18th NVP Brain and Cognition Winter Conference
+
+- Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
+- Prof. Jeroen Smeets (Treasurer; Vrije Universiteit Amsterdam)
+- Carolin Lorenz (Max Planck Institute Nijmegen)
+
+
+## Scientific Committee 18th NVP Brain and Cognition Winter Conference
+
+- Dr. Hanneke den Ouden (Chair; Radboud University Nijmegen)
+- Dr. Henk van Steenbergen (Chair elect; Leiden University)
+- Dr. David Terburg (Utrecht University)
+- Dr. Oliver Lindemann (Erasmus University Rotterdam)
+- Dr. Marieke van Vugt (Rijksuniversiteit Groningen)
+- Dr. Timo Stein (University of Amsterdam)
+- Dr. Vincent van de Ven (Maastricht University)
+- Dr. Judith Holler (Max Planck Institute for Psycholinguistics)
+- Dr. Tomas Knapen (Vrije Universiteit Amsterdam)
+- Dr. Anna van Duivenvoorde (Leiden University)
+- Dr. Tessa van Leeuwen (Tilburg University)
+
 
 ## Programs of previous editions
 

@@ -60,6 +60,13 @@ The application must contain:
 - A letter confirming eligibility, and if necessary, with proof of eligibility.
 
 
+## Award committee
+
+- Prof. Sander Nieuwenhuis (Chair; Leiden University)
+- Prof. Hedderik van Rijn (Groningen University)
+- Prof. Uta Noppeny (Radboud University Nijmegen)
+
+
 ## Previous winners
 
 - 2019: Vitória Pai

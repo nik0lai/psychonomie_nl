@@ -57,6 +57,15 @@ Candidates and their (co)promotor must submit the relevant parts of the applicat
 The NVP board decides on the prize winner based on the recommendation of the award committee. The decision is final and cannot be disputed.
 
 
+## Award committee
+
+- Prof. Joke Baas (Chair; Utrecht University)
+- Prof. Sonja Kotz (Maastricht University)
+- Dr. Rene Zeelenberg (Erasmus University Rotterdam)
+
+[Additional members t.b.a.]
+
+
 ## Previous winners
 
 - 2019: Gilles de Hollander
