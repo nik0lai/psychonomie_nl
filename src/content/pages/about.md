@@ -32,13 +32,13 @@ NVP is committed to work for inclusion, equity and diversity in our field. We re
 
 The NVP executive board consists of:
 
-- President: Prof. dr. Heleen Slagter. VU Universiteit Amsterdam
-- Treasurer: Prof. dr. Jeroen Smeets, Vrije Universiteit Amsterdam
-- Secretary: Dr. Michelle Achterberg
-- Executive member: Prof. dr. Alexander Sack
-- Executive member: Nicolás Sánchez-Fuenzalida, MSc
-- Executive member: Dr. Sebastiaan Mathôt, Rijksuniversiteit Groningen
-- Executive member: Prof. dr. Joke Baas, Universiteit Utrecht
+- President: Prof. dr. Heleen Slagter. VU University Amsterdam
+- Treasurer: Prof. dr. Jeroen Smeets, VU University Amsterdam
+- Secretary: Dr. Michelle Achterberg, Erasmus University Rotterdam
+- Executive member: Prof. dr. Alexander Sack, Maastricht University
+- Executive member: Nicolás Sánchez-Fuenzalida, MSc, University of Amsterdam
+- Executive member: Dr. Sebastiaan Mathôt, Groningen University
+- Executive member: Prof. dr. Joke Baas, Utrecht University
 
 Secretary:
 
