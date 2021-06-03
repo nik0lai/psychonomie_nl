@@ -23,9 +23,9 @@ This year’s conference is organized by Prof. Peter Hagoort and Carolin Lorenz 
 
 Confirmed key note speakers are:
 
-- Prof. Sonja Kotz
-- Prof. Sarah-Jayne Blakemore
-- Prof. Christian Büchel
+- Prof. Sonja Kotz, University of Maastricht ([homepage](https://band-lab.com))
+- Prof. Sarah-Jayne Blakemore, University of Cambridge ([homepage](https://sites.google.com/site/blakemorelab/))
+- Prof. Christian Büchel, University Medical Center, Hamburg-Eppendorf ([homepage](https://sites.google.com/view/buechellab/christian-b%C3%BCchel))
 
 
 ## Call for symposia 

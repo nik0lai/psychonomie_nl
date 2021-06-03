@@ -11,6 +11,8 @@ The NVP Early Career Award is given for outstanding contributions to the field o
 
 At the biennial NVP Winter conference, the Society will give the Early Career Award to an outstanding early career researcher working at a Dutch research institution for their contribution to scientific knowledge in the field of Brain and Cognition. The awardee will receive an Award certificate and €500 in prize money. In addition, (s)he will be invited to present an overview of her/his scientific work at the NVP Winter conference on Brain and Cognition.
 
+Deadline for nominations: __October 1st 2021__
+
 
 ## Eligibility
 
