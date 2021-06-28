@@ -32,7 +32,7 @@ Confirmed key note speakers are:
 
 The Scientific committee invites proposals for symposia on any topic relevant to the study of cognition, behavior and the brain. NVP has a strong preference for symposia proposals to focus on specific questions rather than a set of loosely related talks. Proposals that integrate multiple methodologies around common questions are particularly welcome.
 
-Symposia will feature 3 or 4 speakers in a one-hour session. __Deadline for symposia proposals is June 27, 2021__. Symposia proposals can be submitted using this symposia proposal template by e-mail to the scientific committee (<SC@societyforbrainandcognition.nl>). All symposia proposals will be reviewed and rated by the members of scientific committee and seven symposia will be accepted. Please use <a href='/pages/attachments/Symposium-proposal-template-NVP-2021.docx'>this proposal template!</a>
+Symposia will feature 3 or 4 speakers in a one-hour session. __Deadline for symposia proposals is July 4, 2021__. Symposia proposals can be submitted using this symposia proposal template by e-mail to the scientific committee (<SC@societyforbrainandcognition.nl>). All symposia proposals will be reviewed and rated by the members of scientific committee and seven symposia will be accepted. Please use <a href='/pages/attachments/Symposium-proposal-template-NVP-2021.docx'>this proposal template!</a>
 
 Agreement of the chair and speakers should be obtained before submission. Please note that inclusion of chairs or speakers to participate in more than one symposium proposal is not permitted.
 
