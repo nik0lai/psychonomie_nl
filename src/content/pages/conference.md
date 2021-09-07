@@ -5,7 +5,7 @@ title: NVP Winter Conference
 <img src="/pages/img/banner.png" />
 </div>
 
-## Overview
+<h2>Overview</h2>
 
 
 [TOC]
@@ -28,13 +28,24 @@ Confirmed key note speakers are:
 - Prof. Christian Büchel, University Medical Center, Hamburg-Eppendorf ([homepage](https://sites.google.com/view/buechellab/christian-b%C3%BCchel))
 
 
-## Call for symposia 
+## Special symposium by the NVP scientific council
 
-The Scientific committee invites proposals for symposia on any topic relevant to the study of cognition, behavior and the brain. NVP has a strong preference for symposia proposals to focus on specific questions rather than a set of loosely related talks. Proposals that integrate multiple methodologies around common questions are particularly welcome.
+See <a href="/conference-symposia">this page</a> for details about the symposia.
 
-Symposia will feature 3 or 4 speakers in a one-hour session. __Deadline for symposia proposals is July 4, 2021__. Symposia proposals can be submitted using this symposia proposal template by e-mail to the scientific committee (<SC@societyforbrainandcognition.nl>). All symposia proposals will be reviewed and rated by the members of scientific committee and seven symposia will be accepted. Please use <a href='/pages/attachments/Symposium-proposal-template-NVP-2021.docx'>this proposal template!</a>
+- *The usefulness of brain research in research into cognition and behaviour—a debate*
 
-Agreement of the chair and speakers should be obtained before submission. Please note that inclusion of chairs or speakers to participate in more than one symposium proposal is not permitted.
+
+## Symposia
+
+See <a href="/conference-symposia">this page</a> for details about the symposia.
+
+- *How do we learn and predict structure in the world?*
+- *How to enhance your memory? Explicit and implicit learning in multimodal environments*
+- *Improving the external validity of biological assessments of anxiety—from lab to life*
+- *Integrating the "what" and the "how" of language: The role of prosody in speech recognition*
+- *Neuromodulation of motivation and effort*
+- *Rapid Invisible Frequency Tagging (RIFT): A novel window into cognition and neural dynamics*
+
 
 
 ## Plenary and poster presentations

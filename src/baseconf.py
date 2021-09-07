@@ -6,7 +6,7 @@ import os
 LOCALE = 'en_US'
 MARKDOWN = {
     'extension_configs': {
-        'markdown.extensions.toc': {},
+        'markdown.extensions.toc': {'toc_depth': '2'},
     },
 }
 AUTHOR = u'Sebastiaan Math\xf4t'
