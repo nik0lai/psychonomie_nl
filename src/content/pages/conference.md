@@ -2,10 +2,17 @@ title: NVP Winter Conference
 
 
 <div class="cogsci-content">
+
+<div class="page-notification">
+Abstract submission deadline: October 1st. <a href="#abstract-submission">Submit now!</a>
+</div>
+
 <img src="/pages/img/banner.png" />
+
 </div>
 
 <h2>Overview</h2>
+
 
 
 [TOC]
@@ -13,8 +20,7 @@ title: NVP Winter Conference
 
 ## About the conference
 
-
-The __18th NVP Dutch Society for Brain and Cognition Winter Conference__ is (provisionally) planned to take place in Hotel Zuiderduin, Egmond aan Zee, Netherlands, on __December 16-18, 2021__. This 3-day meeting brings together Dutch and international scientists working on cognition, behavior, and the brain. The meeting features plenary sessions, member-initiated symposia, poster sessions, keynote lectures, the awarding of the NVP Dissertation Prize and the NVP Early Career Award, a Diversity and Inclusion event, and a social program.
+We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __December 16-18, 2021__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. We follow the governmental Covid-regulations and will require that you provide a [covid-certificate](https://www.government.nl/topics/coronavirus-covid-19/covid-certificate): either a proof of vaccination, a proof of recovery, or a recent negative test. You can use the Dutch __CoronaCheck app__ for this.
 
 This year’s conference is organized by Prof. Peter Hagoort and Carolin Lorenz from the Max Planck Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. At the moment, the meeting is planned to be an in-person meeting, although the Society and the organizing committee are keeping a close eye on the COVID-19 situation. 
 
@@ -46,11 +52,22 @@ See <a href="/conference-symposia">this page</a> for details about the symposia.
 - *Neuromodulation of motivation and effort*
 - *Rapid Invisible Frequency Tagging (RIFT): A novel window into cognition and neural dynamics*
 
+## Registration
+
+### Early-bird registration
+
+Early bird registration is available until __October 1st__. The early bird registration fee is € 375, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. This registration is compulsory for abstract submission. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
+
+### Late registration
+
+If you register after October 1st, you will pay a late fee of €465, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. We plan to close registration on December 10th. However, the capacity of the hotel is limited, so we may close registration earlier. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
 
 
-## Plenary and poster presentations
+## Abstract submission
 
-Members can submit an abstract (call opens: early September, __deadline October 1, 2021__) via a soon-to-be-constructed submission portal. They can request either a poster or an oral presentation. A call for plenary and poster presentations will be send out in due time.
+Abstracts can be submitted for the parallel oral sessions and the poster sessions. The __deadline__ for abstract submission is __October 1st, 2021__. Abstracts are limited to 200 words. Abstracts will be evaluated by the scientific committee and can be considered either for a talk/poster or for a poster only. You need to be registered to submit an abstract.
+
+- Abstract submission portal: <https://www.conftool.net/nvp2021/>
 
 
 ## NVP PhD Thesis Award
