@@ -4,7 +4,7 @@ title: NVP Winter Conference
 <div class="cogsci-content">
 
 <div class="page-notification">
-Abstract submission deadline: October 1st. <a href="#abstract-submission">Submit now!</a>
+The abstract-submission deadline has been extended to October 8th. <a href="#abstract-submission">Submit now!</a>
 </div>
 
 <img src="/pages/img/banner.png" />
@@ -27,7 +27,9 @@ This year’s conference is organized by Prof. Peter Hagoort and Carolin Lorenz 
 
 ## Keynote speakers
 
-Confirmed key note speakers are:
+See <a href="/conference-keynotes">this page</a> for details about the keynotes.
+
+Confirmed keynote speakers are:
 
 - Prof. Sonja Kotz, University of Maastricht ([homepage](https://band-lab.com))
 - Prof. Sarah-Jayne Blakemore, University of Cambridge ([homepage](https://sites.google.com/site/blakemorelab/))
@@ -54,6 +56,8 @@ See <a href="/conference-symposia">this page</a> for details about the symposia.
 
 ## Registration
 
+- Abstract submission and registration portal: <https://www.conftool.net/nvp2021/>
+
 ### Early-bird registration
 
 Early bird registration is available until __October 1st__. The early bird registration fee is € 375, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. This registration is compulsory for abstract submission. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
@@ -65,9 +69,10 @@ If you register after October 1st, you will pay a late fee of €465, including 
 
 ## Abstract submission
 
-Abstracts can be submitted for the parallel oral sessions and the poster sessions. The __deadline__ for abstract submission is __October 1st, 2021__. Abstracts are limited to 200 words. Abstracts will be evaluated by the scientific committee and can be considered either for a talk/poster or for a poster only. You need to be registered to submit an abstract.
+- Abstract submission and registration portal: <https://www.conftool.net/nvp2021/>
 
-- Abstract submission portal: <https://www.conftool.net/nvp2021/>
+Abstracts can be submitted for the parallel oral sessions and the poster sessions. The __deadline__ for abstract submission is __October 8th, 2021__. Abstracts are limited to 200 words. Abstracts will be evaluated by the scientific committee and can be considered either for a talk/poster or for a poster only. You need to be registered to submit an abstract.
+
 
 
 ## NVP PhD Thesis Award
@@ -110,7 +115,7 @@ For more information and eligibility criteria, <a href="/early-career-award">thi
 
 Relive the past by browsing through the programs of previous years!
 
-- [2019](/pages/conference2019)
+- [2019](/conference2019)
 - [2017](/pages/attachments/nvp2017.pdf)
 - [2015](/pages/attachments/nvp2015.pdf)
 - [2013](/pages/attachments/nvp2013.pdf)
