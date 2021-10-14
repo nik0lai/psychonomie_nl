@@ -88,6 +88,21 @@ At the Winter Conference, the Society will award the Early Career Award to an ea
 
 For more information and eligibility criteria, <a href="/early-career-award">this page</a>.
 
+## NVP Master Student Awards
+
+For the conference, 8 volunteer positions are open for MSc/MA students who would like to attend the conference and present a poster, but do not have funding to do so. The Master Student Award winners will receive a full fee waiver, in return for assistance at the conference with logistical needs. Candidates should currently be enrolled in a master program at a Dutch University.
+
+The application should consist of:
+
+  - Poster abstract (max 200 words, excl. title)
+  - Motivation letter specifying why the candidate would like to attend the conference and how attending the conference would be beneficial to their career (max 300 words)
+  - 1 page CV 
+
+We explicitly encourage students of underrepresented groups to apply.
+
+Note: Eligible students who would like to volunteer, but have already registered for the conference are also invited to apply. If their application is selected for the award, their registration fee will be reimbursed.
+
+The documents should be sent as a single PDF file via email (<sc@societyforbrainandcognition.nl>) __before November 1st, 23.59 CET__. Master Student Award winners will be notified by November 15.
 
 ## Organizing Committee 18th NVP Brain and Cognition Winter Conference
 
