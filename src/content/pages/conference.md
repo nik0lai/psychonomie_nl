@@ -60,7 +60,7 @@ See <a href="/conference-symposia">this page</a> for details about the symposia.
 
 ### Early-bird registration
 
-Early bird registration is available until __October 1st__. The early bird registration fee is € 375, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. This registration is compulsory for abstract submission. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
+Early bird registration is available until __October 8__. The early bird registration fee is € 375, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. This registration is compulsory for abstract submission. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
 
 ### Late registration
 
