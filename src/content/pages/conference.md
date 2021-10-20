@@ -108,7 +108,7 @@ The documents should be sent as a single PDF file via email (<sc@societyforbrain
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
 - Prof. Jeroen Smeets (Treasurer; Vrije Universiteit Amsterdam)
-- Carolin Lorenz (Max Planck Institute Nijmegen)
+- Tildie Stijns (Donders Institute for Brain, Cognition and Behaviour)
 
 
 ## Scientific Committee 18th NVP Brain and Cognition Winter Conference
