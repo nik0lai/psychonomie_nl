@@ -4,7 +4,7 @@ title: NVP Winter Conference
 <div class="cogsci-content">
 
 <div class="page-notification">
-The abstract-submission deadline has been extended to October 8th. <a href="#abstract-submission">Submit now!</a>
+Due to Corona restrictions, the conference has been postponed to April 28 - 30, 2022. The scientific program will remain the same. Further details (e.g., on the possibility of a refund) will be communicated later.
 </div>
 
 <img src="/pages/img/banner.png" />
@@ -20,9 +20,16 @@ The abstract-submission deadline has been extended to October 8th. <a href="#abs
 
 ## About the conference
 
-We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __December 16-18, 2021__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. We follow the governmental Covid-regulations and will require that you provide a [covid-certificate](https://www.government.nl/topics/coronavirus-covid-19/covid-certificate): either a proof of vaccination, a proof of recovery, or a recent negative test. You can use the Dutch __CoronaCheck app__ for this.
+We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __April 28-30, 2022__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. We follow the governmental Covid-regulations and will require that you provide a [covid-certificate](https://www.government.nl/topics/coronavirus-covid-19/covid-certificate): either a proof of vaccination, a proof of recovery, or a recent negative test. You can use the Dutch __CoronaCheck app__ for this.
 
 This year’s conference is organized by Prof. Peter Hagoort and Carolin Lorenz from the Max Planck Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. At the moment, the meeting is planned to be an in-person meeting, although the Society and the organizing committee are keeping a close eye on the COVID-19 situation. 
+
+
+## Program
+
+The preliminary program is available here:
+
+- <https://www.conftool.net/nvp2021/sessions.php>
 
 
 ## Keynote speakers
@@ -108,7 +115,7 @@ The documents should be sent as a single PDF file via email (<sc@societyforbrain
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
 - Prof. Jeroen Smeets (Treasurer; Vrije Universiteit Amsterdam)
-- Carolin Lorenz (Max Planck Institute Nijmegen)
+- Tildie Stijns (Donders Institute, Nijmegen)
 
 
 ## Scientific Committee 18th NVP Brain and Cognition Winter Conference
