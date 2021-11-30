@@ -22,7 +22,7 @@ Due to Corona restrictions, the conference has been postponed to April 28 - 30, 
 
 We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __April 28-30, 2022__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. We follow the governmental Covid-regulations and will require that you provide a [covid-certificate](https://www.government.nl/topics/coronavirus-covid-19/covid-certificate): either a proof of vaccination, a proof of recovery, or a recent negative test. You can use the Dutch __CoronaCheck app__ for this.
 
-This year’s conference is organized by Prof. Peter Hagoort and Carolin Lorenz from the Max Planck Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. At the moment, the meeting is planned to be an in-person meeting, although the Society and the organizing committee are keeping a close eye on the COVID-19 situation. 
+This year’s conference is organized by Prof. Peter Hagoort and Tildie Stijns from the Max Planck Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. At the moment, the meeting is planned to be an in-person meeting, although the Society and the organizing committee are keeping a close eye on the COVID-19 situation. 
 
 
 ## Program
@@ -115,7 +115,7 @@ The documents should be sent as a single PDF file via email (<sc@societyforbrain
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
 - Prof. Jeroen Smeets (Treasurer; Vrije Universiteit Amsterdam)
-- Tildie Stijns (Donders Institute, Nijmegen)
+- Tildie Stijns (Donders Institute for Brain, Cognition and Behaviour)
 
 
 ## Scientific Committee 18th NVP Brain and Cognition Winter Conference
