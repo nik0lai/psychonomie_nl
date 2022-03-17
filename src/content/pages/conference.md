@@ -3,10 +3,6 @@ title: NVP Winter Conference
 
 <div class="cogsci-content">
 
-<div class="page-notification">
-Due to Corona restrictions, the conference has been postponed to April 28 - 30, 2022. The scientific program will remain the same. Further details (e.g., on the possibility of a refund) will be communicated later.
-</div>
-
 <img src="/pages/img/banner.png" />
 
 </div>
@@ -20,14 +16,14 @@ Due to Corona restrictions, the conference has been postponed to April 28 - 30, 
 
 ## About the conference
 
-We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __April 28-30, 2022__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. We follow the governmental Covid-regulations and will require that you provide a [covid-certificate](https://www.government.nl/topics/coronavirus-covid-19/covid-certificate): either a proof of vaccination, a proof of recovery, or a recent negative test. You can use the Dutch __CoronaCheck app__ for this.
+We are pleased to announce that the __18th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __April 28-30, 2022__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. 
 
-This year’s conference is organized by Prof. Peter Hagoort and Tildie Stijns from the Max Planck Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. At the moment, the meeting is planned to be an in-person meeting, although the Society and the organizing committee are keeping a close eye on the COVID-19 situation. 
+This year’s conference is organized by Prof. Peter Hagoort, Max Planck Institute, and Tildie Stijns, Donders Institute, together with the scientific committee, chaired by Dr. Hanneke den Ouden. 
 
 
 ## Program
 
-The preliminary program is available here:
+The program is available here:
 
 - <https://www.conftool.net/nvp2021/sessions.php>
 
@@ -63,7 +59,7 @@ See <a href="/conference-symposia">this page</a> for details about the symposia.
 
 ## Registration
 
-- Abstract submission and registration portal: <https://www.conftool.net/nvp2021/>
+- Registration portal: <https://www.conftool.net/nvp2021/>
 
 ### Early-bird registration
 
@@ -71,14 +67,14 @@ Early bird registration is available until __October 8__. The early bird registr
 
 ### Late registration
 
-If you register after October 1st, you will pay a late fee of €465, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. We plan to close registration on December 10th. However, the capacity of the hotel is limited, so we may close registration earlier. In the unlikely case that we will have to cancel the meeting due to governmental restrictions, you will receive a full refund.
+If you register after October 1st, you will pay a late fee of €465, including single-room accommodation, meals, drinks during the breaks and two years of membership of NVP. (Under)graduate students can obtain a €50 discount, which comes with a shared room. We plan to close registration on Friday April 1st. However, the capacity of the hotel is limited, so we may close registration earlier. 
 
 
-## Abstract submission
+## Abstract submission closed
 
 - Abstract submission and registration portal: <https://www.conftool.net/nvp2021/>
 
-Abstracts can be submitted for the parallel oral sessions and the poster sessions. The __deadline__ for abstract submission is __October 8th, 2021__. Abstracts are limited to 200 words. Abstracts will be evaluated by the scientific committee and can be considered either for a talk/poster or for a poster only. You need to be registered to submit an abstract.
+Abstracts can be submitted for the parallel oral sessions and the poster sessions. The __deadline__ for abstract submission is __March 1st, 2022__. Abstracts are limited to 200 words. Abstracts will be evaluated by the scientific committee and can be considered either for a talk/poster or for a poster only. You need to be registered to submit an abstract.
 
 
 
@@ -115,7 +111,7 @@ The documents should be sent as a single PDF file via email (<sc@societyforbrain
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
 - Prof. Jeroen Smeets (Treasurer; Vrije Universiteit Amsterdam)
-- Tildie Stijns (Donders Institute for Brain, Cognition and Behaviour)
+- Tildie Stijns (Radboud University)
 
 
 ## Scientific Committee 18th NVP Brain and Cognition Winter Conference
