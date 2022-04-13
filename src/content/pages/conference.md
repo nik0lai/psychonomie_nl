@@ -13,6 +13,15 @@ title: NVP Winter Conference
 
 [TOC]
 
+## Announcements
+
+### NVP PhD thesis prize 2021:
+
+Dr. Limor Raviv has been awarded the NVP PhD Thesis prize for her dissertation 'Language and society: how social pressures shape grammatical structure' which she defended at the Max Planck Institute for Psycholinguistics. Her thesis can be downloaded [here](https://urldefense.com/v3/__https:/societyforbrainandcognition.us10.list-manage.com/track/click?u=77d527edca95110751feb0464&id=c6f18ec5bd&e=98235063d8__;!!HJOPV4FYYWzcc1jazlU!6jKQP575cfBfY1UTAmgE9nj6E-uOloLqXRMrA1Wn-1uZi_i0KzdYbZ8o2f71tCa8bvujAzhSs3LNs_YY38DDHFlPDlAz$).
+
+### NVP Early Career Award 2021
+
+Dr. Freek van Ede, Assistant Professor at Vrije Universiteit Amsterdam has been awarded with the Early Career Award for his innovative research in the field of attention and working memory.
 
 ## About the conference
 
@@ -80,7 +89,7 @@ Abstracts can be submitted for the parallel oral sessions and the poster session
 
 ## NVP PhD Thesis Award
 
-At the conference, the Society awards a prize for the PhD thesis conducted in the Netherlands that made the most outstanding contribution to scientific knowledge in the field of Brain and Cognition. Eligible candidates have obtained a PhD degree from any Dutch university/institute in the roughly two-year time span between the deadlines of the previous and current thesis awards. Candidates can self-nominate or be nominated by their (co)promotor. The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields, i.e. work in those fields that would typically be suitable for submission for poster and/or oral presentations at the NVP conference. __Deadline for submission: 31 July 2021__. Nominations can be submitted via email (<TAC@societyforbrainandcognition.nl>).
+At the conference, the Society awards a prize for the PhD thesis conducted in the Netherlands that made the most outstanding contribution to scientific knowledge in the field of Brain and Cognition. Eligible candidates have obtained a PhD degree from any Dutch university/institute in the roughly two-year time span between the deadlines of the previous and current thesis awards. Candidates can self-nominate or be nominated by their (co)promotor. The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields, i.e. work in those fields that would typically be suitable for submission for poster and/or oral presentations at the NVP conference.
 
 For more information and eligibility criteria, see <a href="/dissertation-award">this page</a>.
 
