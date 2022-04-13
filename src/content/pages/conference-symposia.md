@@ -44,7 +44,7 @@ Stefan van der Stigchel
 ### Speakers
 
 - Prof. Peter Hagoort - Radboud University Nijmegen
-- Prof. Sarah Durston - Utrecht University
+- Prof. Eveline Crone - Leiden University & Erasmus University Rotterdam
 - Dr. Leon de Bruin - Radboud University Nijmegen
 - Prof. Jan Derksen - Radboud University Nijmegen
 
