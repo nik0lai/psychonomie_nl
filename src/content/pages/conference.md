@@ -15,6 +15,10 @@ title: NVP Winter Conference
 
 ## Announcements
 
+### Conference program available
+
+See the full program of the conference [here](/pages/attachments/18th_NVP_Winter_Conference_Program.pdf).
+
 ### NVP PhD thesis prize 2021:
 
 Dr. Limor Raviv has been awarded the NVP PhD Thesis prize for her dissertation 'Language and society: how social pressures shape grammatical structure' which she defended at the Max Planck Institute for Psycholinguistics. Her thesis can be downloaded [here](https://urldefense.com/v3/__https:/societyforbrainandcognition.us10.list-manage.com/track/click?u=77d527edca95110751feb0464&id=c6f18ec5bd&e=98235063d8__;!!HJOPV4FYYWzcc1jazlU!6jKQP575cfBfY1UTAmgE9nj6E-uOloLqXRMrA1Wn-1uZi_i0KzdYbZ8o2f71tCa8bvujAzhSs3LNs_YY38DDHFlPDlAz$).
