@@ -1,5 +1,11 @@
 title: NVP Winter Conference
 
+<div class="alert alert-warning" markdown="1">
+The next NVP winterconference will be held in person on 14-16 December 2023 in Egmond aan Zee.
+ 
+Below you find the archived NVP 2022 winter conference information. <b>This paged is archived!</b>
+
+</div>
 
 <div class="cogsci-content">
 
