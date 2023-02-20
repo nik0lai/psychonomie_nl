@@ -5,6 +5,7 @@ The old NVP website can be found at: <https://www.psychonomie.nl/>.
 
 Previous conferences:
 
+- [2022](/conference2022)
 - [2019](/conference2019)
 
 NVP also used to publish a Dutch-language newsletter, *De Psychonoom*. This newsletter is no longer published, but for your reminiscing pleasure, the old editions can be found here:
