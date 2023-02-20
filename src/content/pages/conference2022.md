@@ -3,7 +3,7 @@ title: NVP Winter Conference
 
 <div class="cogsci-content">
 
-<img src="/pages/img/banner.png" />
+<img src="/pages/img/banner2022.png" />
 
 </div>
 
