@@ -17,6 +17,25 @@ title: NVP Winter Conference
 
 We are pleased to announce that the __19th NVP Winter Conference on Brain and Cognition__ will be an in-person meeting that will take place in Hotel Zuiderduin, Egmond aan Zee, from __December 14-16, 2023__. This 3-day meeting brings together Dutch and international scientists working on cognition, behaviour and the brain, and features four keynote lectures, member-initiated symposia, parallel oral sessions, poster sessions, the awarding of NVP awards, and a social programme. 
 
+This year’s conference is organized by Prof. Peter Hagoort, Max Planck Institute, and Tildie Stijns, Donders Institute, together with the scientific committee, chaired by Dr. Henk van Steenbergen.
+
+## Organizing Committee 19th NVP Brain and Cognition Winter Conference
+Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
+Dr. Linda Drijvers (Treasurer; Max Planck Institute Nijmegen)
+Tildie Stijns (Radboud University)
+
+## Scientific Committee 19th NVP Brain and Cognition Winter Conference
+Henk van Steenbergen (Chair; Leiden University)
+Marieke van Vugt (chair elect)	Rijksuniversiteit Groningen
+Marnix Naber (Utrecht University)
+Janna Cousijn (Erasmus University Rotterdam)
+Timo Stein (University of Amsterdam)
+Vincent van de Ven (Maastricht University)
+Rinus Verdonschot (Max Planck Institute Nijmegen)
+Eliana Vassena (Radboud University) 
+Freek van Ede (Vrije Universiteit)
+Tessa van Leeuwen (Tilburg University)
+
 ## Programs of previous editions
 
 Relive the past by browsing through the programs of previous years!
