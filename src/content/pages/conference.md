@@ -25,16 +25,16 @@ Dr. Linda Drijvers (Treasurer; Max Planck Institute Nijmegen)
 Tildie Stijns (Radboud University)
 
 ## Scientific Committee 19th NVP Brain and Cognition Winter Conference
-Henk van Steenbergen (Chair; Leiden University)
-Marieke van Vugt (chair elect)	Rijksuniversiteit Groningen
-Marnix Naber (Utrecht University)
-Janna Cousijn (Erasmus University Rotterdam)
-Timo Stein (University of Amsterdam)
-Vincent van de Ven (Maastricht University)
-Rinus Verdonschot (Max Planck Institute Nijmegen)
-Eliana Vassena (Radboud University) 
-Freek van Ede (Vrije Universiteit)
-Tessa van Leeuwen (Tilburg University)
+Dr. Henk van Steenbergen (Chair; Leiden University)
+Dr. Marieke van Vugt (chair elect)	Rijksuniversiteit Groningen
+Dr. Marnix Naber (Utrecht University)
+Dr. Janna Cousijn (Erasmus University Rotterdam)
+Dr. Timo Stein (University of Amsterdam)
+Dr. Vincent van de Ven (Maastricht University)
+Dr. Rinus Verdonschot (Max Planck Institute Nijmegen)
+Dr. Eliana Vassena (Radboud University) 
+Dr. Freek van Ede (Vrije Universiteit)
+Dr. Tessa van Leeuwen (Tilburg University)
 
 ## Programs of previous editions
 
