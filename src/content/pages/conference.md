@@ -20,21 +20,23 @@ We are pleased to announce that the __19th NVP Winter Conference on Brain and Co
 This year’s conference is organized by Prof. Peter Hagoort, Max Planck Institute, and Tildie Stijns, Donders Institute, together with the scientific committee, chaired by Dr. Henk van Steenbergen.
 
 ## Organizing Committee 19th NVP Brain and Cognition Winter Conference
-Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
-Dr. Linda Drijvers (Treasurer; Max Planck Institute Nijmegen)
-Tildie Stijns (Radboud University)
+
+- Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
+- Dr. Linda Drijvers (Treasurer; Max Planck Institute Nijmegen)
+- Tildie Stijns (Radboud University)
 
 ## Scientific Committee 19th NVP Brain and Cognition Winter Conference
-Dr. Henk van Steenbergen (Chair; Leiden University)
-Dr. Marieke van Vugt (chair elect)	Rijksuniversiteit Groningen
-Dr. Marnix Naber (Utrecht University)
-Dr. Janna Cousijn (Erasmus University Rotterdam)
-Dr. Timo Stein (University of Amsterdam)
-Dr. Vincent van de Ven (Maastricht University)
-Dr. Rinus Verdonschot (Max Planck Institute Nijmegen)
-Dr. Eliana Vassena (Radboud University) 
-Dr. Freek van Ede (Vrije Universiteit)
-Dr. Tessa van Leeuwen (Tilburg University)
+
+- Dr. Henk van Steenbergen (Chair; Leiden University)
+- Dr. Marieke van Vugt (chair elect)	Rijksuniversiteit Groningen
+- Dr. Marnix Naber (Utrecht University)
+- Dr. Janna Cousijn (Erasmus University Rotterdam)
+- Dr. Timo Stein (University of Amsterdam)
+- Dr. Vincent van de Ven (Maastricht University)
+- Dr. Rinus Verdonschot (Max Planck Institute Nijmegen)
+- Dr. Eliana Vassena (Radboud University) 
+- Dr. Freek van Ede (Vrije Universiteit)
+- Dr. Tessa van Leeuwen (Tilburg University)
 
 ## Programs of previous editions
 
