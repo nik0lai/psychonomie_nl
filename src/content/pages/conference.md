@@ -35,6 +35,14 @@ The scientific committee invites proposals for symposia on any topic relevant to
 
 Agreement of the chair and speakers should be obtained before submission. Please note that inclusion of chairs or speakers to participate in more than one symposium proposal is not permitted. Please note that each speaker is only permitted to give one talk or present one poster at the event.
 
+## Call for Plenary Events
+
+We are also open to receiving proposals for plenary events that facilitate discussions on current trends, for example the utilization of artificial intelligence in research, sustainable research practices, the impact of climate change on research, and ways to promote inclusivity in our research community. Deadline for plenary event proposals is June 15, 2023 and can be sent by e-mail to the organizing committee (OC@societyforbrainandcognition.nl). 
+
+## Plenary and poster presentations
+
+Members can submit an abstract (call opens: early September, deadline: October 1, 2023) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. A call for plenary and poster presentations will be send out in due time.
+
 ## Organizing Committee 19th NVP Brain and Cognition Winter Conference
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
