@@ -43,6 +43,14 @@ We are also open to receiving proposals for plenary events that facilitate discu
 
 Members can submit an abstract (call opens: early September, deadline: October 1, 2023) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. A call for plenary and poster presentations will be send out in due time.
 
+## NVP PhD Thesis Award
+
+At the conference, the Society awards a prize for the PhD thesis conducted in the Netherlands that made the most outstanding contribution to scientific knowledge in the field of Brain and Cognition. Eligible candidates have obtained a PhD degree from any Dutch university/institute in the roughly two-year time span between the deadlines of the previous and current thesis awards. Candidates can self-nominate or be nominated by their (co)promotor. The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields, i.e. work in those fields that would typically be suitable for submission for poster and/or oral presentations at the NVP conference. Deadline for submission: 31 July 2023. Nominations can be submitted via email (TAC@societyforbrainandcognition.nl). More information and eligibility criteria [here](/pages/dissertation-award/)). 
+
+## NVP Early Career Award
+
+At the Winter Conference, the Society will award the Early Career Award to an early career researcher working at a Dutch research institution for their outstanding contributions to scientific knowledge in the field of brain and cognition. The purpose is to increase the visibility of our field and support excellent early-career scientists. The winner will receive an Award certificate, €500 prize money and the opportunity to present her/his work in the NVP Winter Conference. Deadline for submission: 1 October 2023. Nominations can be submitted via email (ECA@societyforbrainandcognition.nl). More information and eligibility criteria [here](/pages/early-career-award/)).
+
 ## Organizing Committee 19th NVP Brain and Cognition Winter Conference
 
 - Prof. Peter Hagoort (Chair; Max Planck Institute Nijmegen)
