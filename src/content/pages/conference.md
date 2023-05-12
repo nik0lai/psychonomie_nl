@@ -70,6 +70,19 @@ At the Winter Conference, the Society will award the Early Career Award to an ea
 - Dr. Freek van Ede (Vrije Universiteit)
 - Dr. Tessa van Leeuwen (Tilburg University)
 
+## NVP Early Career Award committee
+
+ - Prof. Uta Noppeney (Chair; Radboud University)
+ - [Members TBA]
+
+## NVP PhD Thesis Award
+
+ - Dr. Ben Harvey (Utrecht University)
+ - MSc. Michelle Moerel (Maastricht University)
+ - Dr. Marius Peelen (chair - Radboud University).
+ - Dr. Yair Pinto (University of Amsterdam)
+ - Dr. Anne Urai (Leiden University)
+
 ## Programs of previous editions
 
 Relive the past by browsing through the programs of previous years!
