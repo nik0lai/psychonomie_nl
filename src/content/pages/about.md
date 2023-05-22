@@ -32,13 +32,15 @@ NVP is committed to work for inclusion, equity and diversity in our field. We re
 
 The NVP executive board consists of:
 
-- President: Prof. dr. Heleen Slagter. VU University Amsterdam
-- Treasurer: Prof. dr. Jeroen Smeets, VU University Amsterdam
+- President: Prof. dr. Stefan van der Stigchel. Utrecht University 
+- Treasurer: Dr. Linda Drijvers, Radboud University Nijmegen & Max Planck Institute for Psycholinguistics. 
 - Secretary: Dr. Michelle Achterberg, Erasmus University Rotterdam
+- Executive member: Prof. dr. Elkan Akyürek, University of Groningen
+- Executive Member: Dr. Michiel van Elk, University
 - Executive member: Prof. dr. Alexander Sack, Maastricht University
-- Executive member: Nicolás Sánchez-Fuenzalida, MSc, University of Amsterdam
-- Executive member: Dr. Sebastiaan Mathôt, Groningen University
-- Executive member: Prof. dr. Joke Baas, Utrecht University
+- Executive member: Drs. Nicolás Sánchez-Fuenzalida, University of Amsterdam
+- Executive member: Dr. Noor Seijdel, Max Planck Institute for Psycholinguistics
+
 
 Secretary:
 
@@ -84,4 +86,4 @@ Occasionally, NVP awards an honorary medal to people who have, in one form or an
 - Dr. Anne Urai (Leiden University)
 - Dr. Elkan Akyurek (Groningen University)
 - Dr. Helen Tiboel (Rotterdam University)
-- Nicolás Sánchez-Fuenzalida, MSc (University of Amsterdam)
+- Drs. Nicolás Sánchez-Fuenzalida, (University of Amsterdam)
