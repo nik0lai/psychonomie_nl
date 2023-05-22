@@ -27,7 +27,8 @@ Confirmed key note speakers are:
 
 - Michael Inzlicht (University of Toronto)
 - Valerie Voon (Cambridge University)
-- Eiko Fried (Leiden University) and Nienke Atteveldt (VU University)
+- Eiko Fried (Leiden University) 
+- Nienke Atteveldt (VU University)
 
 ## Call for Symposia<a name="symposia-call"></a>
 
