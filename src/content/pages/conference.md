@@ -73,8 +73,9 @@ At the Winter Conference, the Society will award the Early Career Award to an ea
 
 ## NVP Early Career Award committee
 
- - Prof. Uta Noppeney (Chair; Radboud University)
- - [Members TBA]
+ - Prof. dr. Uta Noppeney (Chair; Radboud University)
+ - Prof. dr. Sonja Kotz (Maastricht University)
+ - Dr. Chris Paffen (Utrecht University)
 
 ## NVP PhD Thesis Award
 
