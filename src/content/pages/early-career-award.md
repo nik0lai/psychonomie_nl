@@ -31,7 +31,7 @@ Extension for parents^*^:
 
 Nominees from previous years can be re-nominated, assuming the nominee is still eligible.
 
-Nominations should be sent via email ECA@societyforbrainandcognition.nl and will be decided on by the Committee. The decision is final and cannot be disputed.
+Nominations should be sent via email ECA@psychonomie.nl and will be decided on by the Committee. The decision is final and cannot be disputed.
 
 Award winners are expected to give a presentation at the meeting in which the prize is conferred.
 
