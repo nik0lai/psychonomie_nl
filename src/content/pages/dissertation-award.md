@@ -50,7 +50,7 @@ Candidates must have defended the PhD thesis and received the PhD degree from a 
 The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields.
 Candidates can self-nominate or be nominated by their (co-)promotor.
 
-Candidates and their (co)promotor must submit the relevant parts of the application directly to the committee via email to TAC@societyforbrainandcognition.nl by the deadline provided in the call.
+Candidates and their (co)promotor must submit the relevant parts of the application directly to the committee via email to TAC@psychonomie.nl by the deadline provided in the call.
 
 The NVP board decides on the prize winner based on the recommendation of the award committee. The decision is final and cannot be disputed.
 
