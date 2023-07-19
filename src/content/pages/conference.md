@@ -2,7 +2,7 @@ title: NVP Winter Conference
 
 ## Announcements
 
-**[Call for Symposia now open](#symposia-call)**
+**[Call for Symposia: deadline extended](#symposia-call)**
 
 <div class="cogsci-content">
 
@@ -31,6 +31,17 @@ Confirmed key note speakers are:
 - Nienke Atteveldt (VU University)
 
 ## Call for Symposia<a name="symposia-call"></a>
+
+**Due to a technical error, all submissions for the NVP Winter Conference (Call for Plenary Events, Symposia, PhD Thesis Award and Early Career Award) sent to a mail address with the extension @societyforbrainandcognition have been lost. Please resend submissions to the email addresses mentioned below, preferably before JULY 14**. Announcements about the accepted symposia are expected around September.
+ 
+- Early Career Award & Plenary Events: OC@psychonomie.nl 
+- Symposia: SC@psychonomie.nl 
+- PhD Thesis award: TAC@psychonomie.nl  
+ 
+For more information about these calls, see below. We apologize for any inconvenience. Please know that we will be lenient in our inclusion criteria to include any lost submission for consideration.
+ 
+On behalf of the NVP board and organizing committee,
+Stefan van der Stigchel**
 
 The scientific committee invites proposals for symposia on any topic relevant to the study of cognition, behavior and the brain. NVP has a strong preference for symposia proposals to focus on specific questions rather than a set of loosely related talks. Proposals that integrate multiple methodologies around common questions are particularly welcome. Symposia will feature 3 or 4 speakers in a one-hour session. Deadline for symposium submission is extended to **July 14, 2023**. Symposia proposals can be submitted using this [symposia proposal template](/pages/attachments/Symposium-proposal-template-NVP-2023.docx) by e-mail to the scientific committee (SC@psychonomie.nl). All symposia proposals will be reviewed and rated by the members of scientific committee and seven symposia will be accepted. Please use the proposal template! 
 
