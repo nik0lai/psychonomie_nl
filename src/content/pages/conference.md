@@ -2,6 +2,9 @@ title: NVP Winter Conference
 
 ## Announcements
 
+- The conference registration is now open! Go to [registration](#registration).
+- Plenary and poster submissions are now open! More information about abstract submission [here](#plenary-and-poster-presentations).
+
 <div class="cogsci-content">
 
 <img src="/pages/img/banner.png" />
@@ -12,6 +15,9 @@ title: NVP Winter Conference
 
 [TOC]
 
+## Registration
+
+Registration is now open. Go to the registration page [here](https://www.conftool.net/nvp2023/). **Deadline October 8**.
 
 ## About the conference
 
@@ -91,7 +97,7 @@ We are also open to receiving proposals for plenary events that facilitate discu
 
 ## Plenary and poster presentations
 
-Members can submit an abstract (call opens: early September, deadline: October 8, 2023) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. A call for plenary and poster presentations will be sent out in due time.
+Members can submit an abstract (call opens: early September, **deadline: October 8, 2023**) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. Abstract submission is now open. [Go to submission website](https://www.conftool.net/nvp2023/)
 
 ## NVP PhD Thesis Award
 
