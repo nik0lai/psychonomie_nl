@@ -91,7 +91,7 @@ We are also open to receiving proposals for plenary events that facilitate discu
 
 ## Plenary and poster presentations
 
-Members can submit an abstract (call opens: early September, deadline: October 1, 2023) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. A call for plenary and poster presentations will be sent out in due time.
+Members can submit an abstract (call opens: early September, deadline: October 8, 2023) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. A call for plenary and poster presentations will be sent out in due time.
 
 ## NVP PhD Thesis Award
 
