@@ -87,7 +87,7 @@ Humans are curious by nature. We check our smartphones all the time, and have yo
 
 ## Call for Plenary Events
 
-We are also open to receiving proposals for plenary events that facilitate discussions on current trends, for example the utilization of artificial intelligence in research, sustainable research practices, the impact of climate change on research, and ways to promote inclusivity in our research community. Deadline for plenary event proposals is extended to July 7, 2023 and can be sent by e-mail to the organizing committee (OC@psychonomie.nl). 
+We are also open to receiving proposals for plenary events that facilitate discussions on current trends, for example the utilization of artificial intelligence in research, sustainable research practices, the impact of climate change on research, and ways to promote inclusivity in our research community. **Call CLOSED**.
 
 ## Plenary and poster presentations
 
@@ -95,7 +95,7 @@ Members can submit an abstract (call opens: early September, deadline: October 1
 
 ## NVP PhD Thesis Award
 
-At the conference, the Society awards a prize for the PhD thesis conducted in the Netherlands that made the most outstanding contribution to scientific knowledge in the field of Brain and Cognition. Eligible candidates have obtained a PhD degree from any Dutch university/institute in the roughly two-year time span between the deadlines of the previous and current thesis awards. Candidates can self-nominate or be nominated by their (co)promotor. The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields, i.e. work in those fields that would typically be suitable for submission for poster and/or oral presentations at the NVP conference. Deadline for submission: 31 July 2023. Nominations can be submitted via email (TAC@psychonomie.nl). More information and eligibility criteria [here](/dissertation-award)
+At the conference, the Society awards a prize for the PhD thesis conducted in the Netherlands that made the most outstanding contribution to scientific knowledge in the field of Brain and Cognition. Eligible candidates have obtained a PhD degree from any Dutch university/institute in the roughly two-year time span between the deadlines of the previous and current thesis awards. Candidates can self-nominate or be nominated by their (co)promotor. The submitted PhD thesis should be original work in the field of Brain and Cognition and related fields, i.e. work in those fields that would typically be suitable for submission for poster and/or oral presentations at the NVP conference. **Call CLOSED**.
 
 ## NVP Early Career Award
 
