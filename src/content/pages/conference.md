@@ -2,8 +2,6 @@ title: NVP Winter Conference
 
 ## Announcements
 
-**[Call for Symposia: deadline extended](#symposia-call)**
-
 <div class="cogsci-content">
 
 <img src="/pages/img/banner.png" />
