@@ -23,29 +23,69 @@ This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institu
 
 ## Keynote speakers
 
-Confirmed key note speakers are: 
+Confirmed keynote speakers are: 
 
 - Michael Inzlicht (University of Toronto)
 - Valerie Voon (Cambridge University)
 - Eiko Fried (Leiden University) 
 - Nienke Atteveldt (VU University)
 
-## Call for Symposia<a name="symposia-call"></a>
+## Symposia
 
-**Due to a technical error, all submissions for the NVP Winter Conference (Call for Plenary Events, Symposia, PhD Thesis Award and Early Career Award) sent to a mail address with the extension @societyforbrainandcognition have been lost. Please resend submissions to the email addresses mentioned below, preferably before JULY 14**. Announcements about the accepted symposia are expected around September.
- 
-- Early Career Award & Plenary Events: OC@psychonomie.nl 
-- Symposia: SC@psychonomie.nl 
-- PhD Thesis award: TAC@psychonomie.nl  
- 
-For more information about these calls, see below. We apologize for any inconvenience. Please know that we will be lenient in our inclusion criteria to include any lost submission for consideration.
- 
-On behalf of the NVP board and organizing committee,
-Stefan van der Stigchel**
+### Deciding how to decide - Neural circuits, computations and psychopathology in cognitive effort allocation                
 
-The scientific committee invites proposals for symposia on any topic relevant to the study of cognition, behavior and the brain. NVP has a strong preference for symposia proposals to focus on specific questions rather than a set of loosely related talks. Proposals that integrate multiple methodologies around common questions are particularly welcome. Symposia will feature 3 or 4 speakers in a one-hour session. Deadline for symposium submission is extended to **July 14, 2023**. Symposia proposals can be submitted using this [symposia proposal template](/pages/attachments/Symposium-proposal-template-NVP-2023.docx) by e-mail to the scientific committee (SC@psychonomie.nl). All symposia proposals will be reviewed and rated by the members of scientific committee and seven symposia will be accepted. Please use the proposal template! 
+To successfully navigate life, it is crucial not just to make the right decisions but also to invest the right amount of time and effort in the decision process itself. A recent idea is that such meta-decisions are governed by a trade-off between associated costs and potential benefits. We will discuss factors that may guide effort allocation, including environmental richness (S1) and fluctuations in subjective confidence (S2); dissociable neural circuits for time and effort allocation (S3), and how motivation for cognitive effort may change cognitive control exertion in depression (S4).
 
-Agreement of the chair and speakers should be obtained before submission. Please note that inclusion of chairs or speakers to participate in more than one symposium proposal is not permitted. Please note that each speaker is only permitted to give one talk or present one poster at the event.
+- Hanneke den Ouden (chair)
+- Dr. Laura Ana Bustamante (speaker)
+- Dr. Alessandro Bongioanni (speaker)
+- William Hopper (speaker)
+- Dr. Renée Koolschijn (speaker)
+
+### Explaining the brain From neural mechanisms to computational models  
+
+What are explanatory models in cognitive neuroscience? Interestingly, there is no good answer to this question. Sciences studying higher-level phenomena aim for mechanisms and causes, yet the philosophical basis of these terms is incomplete at best. In this symposium, we explore conceptual and practical challenges for explanatory models of the brain, such as whether/how to map 04-Explaining the brain From neural mechanisms to computational models psychological capacities onto mechanisms and the (presumed) tension between mechanistic and
+computational explanation.
+
+- Jolien Francken (chair/speaker)
+- Johannes J. Fahrenfort (speaker)
+- Vitória Piai (speaker)
+- Iris I.A. Groen (speaker)
+
+### Peripheral-central interactions in motivation and decision making              
+
+Peripheral processes such as those related to the immune system and microbiome exert significant influence on motivated behavior. This symposium hosts three talks at the interdisciplinary intersection between neuroscience and psychoneuroimmunology. Two talks explore the effects of acute immune manipulations on motivation and cost-benefit decision making. The third talk focuses on translating this knowledge into new (preventive) health interventions. Attendees will gain a deeper understanding of the relevance of these findings for advancing mental health research.
+
+- Marieke van der Schaaf (chair/speaker)
+- Name Leonie Balter (speaker)
+- Esther Aarts (speaker)
+
+### Processing, predicting and remembering real-life experiences     
+
+The field of cognitive neuroscience is moving towards studying the brain during naturalistic and continuous perception. Exposing the brain to more dynamic stimuli such as auditory and/or visual narratives gives rise to a multitude of possible perspectives to study how the brain processes, predicts, and memorizes real-life events. By bringing together these perspectives, we create a collaborative environment among researchers who aim to study the brain under ecologically valid scenarios.
+
+- Dora Gözükara (chair)
+- Djamari Oetringer (speaker)
+- Silvy Collin (speaker)
+- Arnaud d'Argembeau (speaker)
+
+### Sensory integration and decision making in the on-line control of action  
+
+The classical work of Donders on cognitive processing in sensorimotor responses assumes that various stages of processing (detection, identification, action selection, execution) are serial. The aim of this symposium is to provide evidence that these stages are radically parallel. We will provide behavioural and electrophysiological evidence for various nested sensorimotor decision loops that act in parallel.
+
+ - Jeroen Smeets (chair/speaker)
+ - Leonie Oostwoud Wijdenes (speaker)
+ - Yvonne Visser (speaker)
+ - Brian Corneil (speaker)
+
+### The Curious Brain             
+
+Humans are curious by nature. We check our smartphones all the time, and have you ever noticed how many people stop to look when a tragic accident just happened? Theories postulate that we are mainly curious when we can make learning progress: The drive to minimize prediction errors seemingly enables understanding of the world and motivates us to learn new things. But what are the neural mechanisms underlying curiosity-driven exploration? Why do our brains seek information, even when we know the information might be useless, negative, or even morbid? Shortly: why are we so curious?
+
+- Olympia Colizoli (chair)
+- Lieke van Lieshout (speaker)
+- Suzanne Oosterwijk (speaker)
+- Carlo Rooth (speaker)
 
 ## Call for Plenary Events
 
