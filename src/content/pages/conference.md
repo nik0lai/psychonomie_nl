@@ -2,7 +2,7 @@ title: NVP Winter Conference
 
 ## Announcements
 
-- The conference registration is now open! Go to the registration page [here](#registration).
+- The conference registration is now open! More information [here](#registration).
 - Plenary and poster submissions are now open! More information about abstract submission [here](#plenary-and-poster-presentations).
 
 <div class="cogsci-content">
@@ -17,7 +17,7 @@ title: NVP Winter Conference
 
 ## Registration
 
-Registration is now open. Go to the registration page [here](https://www.conftool.net/nvp2023/). **Deadline October 8**.
+Registration is now open. Go to the registration page [here](https://www.conftool.net/nvp2023/). **Early bird deadline: October 8**.
 
 ## About the conference
 
