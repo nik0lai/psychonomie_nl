@@ -2,7 +2,7 @@ title: NVP Winter Conference
 
 ## Announcements
 
-- The conference registration is now open! Go to [registration](#registration).
+- The conference registration is now open! Go to the registration page [here](#registration).
 - Plenary and poster submissions are now open! More information about abstract submission [here](#plenary-and-poster-presentations).
 
 <div class="cogsci-content">
