@@ -97,7 +97,7 @@ We are also open to receiving proposals for plenary events that facilitate discu
 
 ## Plenary and poster presentations
 
-Members can submit an abstract (call opens: early September, **deadline: October 8, 2023**) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. Abstract submission is now open. [Go to submission website](https://www.conftool.net/nvp2023/)
+Members can submit an abstract (call opens: early September, **deadline: October 1, 2023**) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. Abstract submission is now open. [Go to submission website](https://www.conftool.net/nvp2023/)
 
 ## NVP PhD Thesis Award
 
