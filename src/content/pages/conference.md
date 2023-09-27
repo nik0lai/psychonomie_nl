@@ -4,6 +4,7 @@ title: NVP Winter Conference
 
 - The conference registration is now open! More information [here](#registration).
 - Plenary and poster submissions are now open! More information about abstract submission [here](#plenary-and-poster-presentations).
+- NVP Master Student Award call is now open! More information [here](#nvp-master-student-awards)
 
 <div class="cogsci-content">
 
@@ -106,6 +107,22 @@ At the conference, the Society awards a prize for the PhD thesis conducted in th
 ## NVP Early Career Award
 
 At the Winter Conference, the Society will award the Early Career Award to an early career researcher working at a Dutch research institution for their outstanding contributions to scientific knowledge in the field of brain and cognition. The purpose is to increase the visibility of our field and support excellent early-career scientists. The winner will receive an Award certificate, €500 prize money and the opportunity to present her/his work in the NVP Winter Conference. Deadline for submission: 1 October 2023. Nominations can be submitted via email (OC@psychonomie.nl). More information and eligibility criteria [here](/early-career-award)
+
+## NVP Master Student Awards
+
+For the winter conference, 8 volunteer positions are open for MSc/MA students who would like to attend the conference and present a poster, but do not have funding to do so. The Master Student Award winners will receive a full fee waiver, in return for assistance at the conference with logistical needs. Candidates should currently be enrolled in a master program at a Dutch University.
+
+The application should consist of:
+
+ - Poster abstract (max 200 words, excl. title)
+ - Motivation letter specifying why the candidate would like to attend the conference and how attending the conference would be beneficial to their career (max 300 words)
+ - One page CV
+
+We explicitly encourage students of underrepresented groups to apply.
+
+The documents should be sent as a single PDF file to sc@psychonomie.nl before **November 1st, 23.59 CET**. Master Student Award winners will be notified by November 15.
+
+**Note**: Eligible students who would like to volunteer, but have already registered for the conference are also invited to apply. If their application is selected for the award, their registration fee will be reimbursed. 
 
 ## Organizing Committee 19th NVP Brain and Cognition Winter Conference
 
