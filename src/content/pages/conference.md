@@ -2,7 +2,7 @@ title: NVP Winter Conference
 
 ## Announcements
 
-- The deadline for Plenary and poster submissions has been extended! More information about abstract submission [here](#plenary-and-poster-presentations).
+- The deadline for plenary and poster submissions has been extended! More information [here](#plenary-and-poster-presentations).
 - The conference registration is now open! More information [here](#registration).
 - NVP Master Student Award call is now open! More information [here](#nvp-master-student-awards)
 
