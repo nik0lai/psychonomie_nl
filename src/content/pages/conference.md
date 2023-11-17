@@ -18,7 +18,7 @@ title: NVP Winter Conference
 
 ## Registration
 
-Registration is now open. Go to the registration page [here](https://www.conftool.net/nvp2023/). **Early bird deadline: October 8**.
+Registration **CLOSED**. 
 
 ## About the conference
 
@@ -33,7 +33,7 @@ Confirmed keynote speakers are:
 - Michael Inzlicht (University of Toronto)
 - Valerie Voon (Cambridge University)
 - Eiko Fried (Leiden University) 
-- Nienke Atteveldt (VU University)
+- Nienke van Atteveldt (VU University)
 
 ## Symposia
 
@@ -90,7 +90,7 @@ Humans are curious by nature. We check our smartphones all the time, and have yo
 - Olympia Colizoli (chair)
 - Lieke van Lieshout (speaker)
 - Suzanne Oosterwijk (speaker)
-- Carlo Rooth (speaker)
+- Eva Berlot (speaker)
 
 ## Call for Plenary Events
 
@@ -98,7 +98,7 @@ We are also open to receiving proposals for plenary events that facilitate discu
 
 ## Plenary and poster presentations
 
-Members can submit an abstract (call opens: early September, **deadline: October 8, 2023**) via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. Abstract submission is now open. [Go to submission website](https://www.conftool.net/nvp2023/)
+Members can submit an abstract (call opens: early September, via the conference website. They can request either a poster or an oral presentation. Please note that each speaker is only permitted to give one talk or present one poster at the event. **Abstract submission CLOSED**
 
 ## NVP PhD Thesis Award
 
@@ -106,11 +106,11 @@ At the conference, the Society awards a prize for the PhD thesis conducted in th
 
 ## NVP Early Career Award
 
-At the Winter Conference, the Society will award the Early Career Award to an early career researcher working at a Dutch research institution for their outstanding contributions to scientific knowledge in the field of brain and cognition. The purpose is to increase the visibility of our field and support excellent early-career scientists. The winner will receive an Award certificate, €500 prize money and the opportunity to present her/his work in the NVP Winter Conference. Deadline for submission: 1 October 2023. Nominations can be submitted via email (OC@psychonomie.nl). More information and eligibility criteria [here](/early-career-award)
+At the Winter Conference, the Society will award the Early Career Award to an early career researcher working at a Dutch research institution for their outstanding contributions to scientific knowledge in the field of brain and cognition. The purpose is to increase the visibility of our field and support excellent early-career scientists. The winner will receive an Award certificate, €500 prize money and the opportunity to present her/his work in the NVP Winter Conference. [here](/early-career-award) **Call CLOSED**
 
 ## NVP Master Student Awards
 
-For the winter conference, 8 volunteer positions are open for MSc/MA students who would like to attend the conference and present a poster, but do not have funding to do so. The Master Student Award winners will receive a full fee waiver, in return for assistance at the conference with logistical needs. Candidates should currently be enrolled in a master program at a Dutch University.
+For the winter conference, 8 volunteer positions are open for MSc/MA students who would like to attend the conference and present a poster, but do not have funding to do so. The Master Student Award winners will receive a full fee waiver, in return for assistance at the conference with logistical needs. Candidates should currently be enrolled in a master program at a Dutch University. **Call CLOSED**
 
 The application should consist of:
 
