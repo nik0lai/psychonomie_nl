@@ -13,7 +13,7 @@ title: NVP Winter Conference
 ## Announcements
 
 NVP PhD thesis prize 2023:
-Dr. Cas Coopmans has been awarded the NVP PhD Thesis prize for his dissertation 'Triangles in the brain: The role of hierarchical structure in language use' which he defended at the Max Planck Institute for Psycholinguistics. His thesis can be downloaded here.
+Dr. Cas Coopmans has been awarded the NVP PhD Thesis prize for his dissertation 'Triangles in the brain: The role of hierarchical structure in language use' which he defended at the Max Planck Institute for Psycholinguistics. His thesis can be downloaded [here](/pages/attachments/PhD_Thesis_CW_Coopmans.pdf).
 
 NVP Early Career Award 2023:
 Dr. Surya Gayet, Assistant Professor at Utrecht University has been awarded with the Early Career Award for his innovative research in the field of visual perception, working memory and awareness.
@@ -28,7 +28,7 @@ This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institu
 The program is available here: 
 https://www.conftool.net/nvp2023/sessions.php
 
-For information on the conference, venue, hotels and other practicalities please find a pdf here.
+For information on the conference, venue, hotels and other practicalities please find a pdf [here](/pages/attachments/NVP-program-2023.pdf).
 
 ## Keynote speakers
 
