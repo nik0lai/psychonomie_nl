@@ -1,9 +1,5 @@
 title: NVP Winter Conference
 
-## Announcements
-
-
-
 <div class="cogsci-content">
 
 <img src="/pages/img/banner.png" />
@@ -14,15 +10,25 @@ title: NVP Winter Conference
 
 [TOC]
 
-## Registration
+## Announcements
 
-Registration **CLOSED**. 
+NVP PhD thesis prize 2023:
+Dr. Cas Coopmans has been awarded the NVP PhD Thesis prize for his dissertation 'Triangles in the brain: The role of hierarchical structure in language use' which he defended at the Max Planck Institute for Psycholinguistics. His thesis can be downloaded here.
+
+NVP Early Career Award 2023:
+Dr. Surya Gayet, Assistant Professor at Utrecht University has been awarded with the Early Career Award for his innovative research in the field of visual perception, working memory and awareness.
 
 ## About the conference
 
 The **19th NVP Dutch Society for Brain and Cognition Winter Conference** takes place in Hotel Zuiderduin, Egmond aan Zee, Netherlands, on **December 14-16, 2023**. This 3-day meeting brings together Dutch and international scientists working on cognition, behavior and the brain, and features plenary sessions, member-initiated symposia, poster sessions, keynote lectures, the awarding of the NVP Dissertation Prize and the NVP Early Career Award, and a social program. 
 
-This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institute for Psycholinguistics), Tildie Stijns (Radboud University), together with the scientific committee, chaired by Dr. Henk van Steenbergen (Leiden University). 
+This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institute for Psycholinguistics), Tildie Stijns (Radboud University), together with the scientific committee, chaired by Dr. Henk van Steenbergen (Leiden University).
+
+## Program
+The program is available here: 
+https://www.conftool.net/nvp2023/sessions.php
+
+For information on the conference, venue, hotels and other practicalities please find a pdf here.
 
 ## Keynote speakers
 
