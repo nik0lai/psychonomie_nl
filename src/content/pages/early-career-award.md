@@ -61,3 +61,4 @@ The application must contain:
 ## Previous winners
 
 - 2019: Vitória Pai
+- 2021: Freek van Ede
