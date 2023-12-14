@@ -25,8 +25,7 @@ The **19th NVP Dutch Society for Brain and Cognition Winter Conference** takes p
 This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institute for Psycholinguistics), Tildie Stijns (Radboud University), together with the scientific committee, chaired by Dr. Henk van Steenbergen (Leiden University).
 
 ## Program
-The program is available here: 
-https://www.conftool.net/nvp2023/sessions.php
+The program is available [here](https://www.conftool.net/nvp2023/sessions.php).
 
 For information on the conference, venue, hotels and other practicalities please find a pdf [here](/pages/attachments/NVP-program-2023.pdf).
 
