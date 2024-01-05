@@ -18,6 +18,11 @@ Dr. Cas Coopmans has been awarded the NVP PhD Thesis prize for his dissertation 
 NVP Early Career Award 2023:
 Dr. Surya Gayet, Assistant Professor at Utrecht University has been awarded with the Early Career Award for his innovative research in the field of visual perception, working memory and awareness.
 
+NVP Poster prize awards 2023:
+Soha Farboud (Donders Institute)
+Kabir Arora (Utrecht University)
+Christoph Strauch (Utrecht University)
+
 ## About the conference
 
 The **19th NVP Dutch Society for Brain and Cognition Winter Conference** takes place in Hotel Zuiderduin, Egmond aan Zee, Netherlands, on **December 14-16, 2023**. This 3-day meeting brings together Dutch and international scientists working on cognition, behavior and the brain, and features plenary sessions, member-initiated symposia, poster sessions, keynote lectures, the awarding of the NVP Dissertation Prize and the NVP Early Career Award, and a social program. 
@@ -25,9 +30,9 @@ The **19th NVP Dutch Society for Brain and Cognition Winter Conference** takes p
 This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institute for Psycholinguistics), Tildie Stijns (Radboud University), together with the scientific committee, chaired by Dr. Henk van Steenbergen (Leiden University).
 
 ## Program
-The program is available [here](https://www.conftool.net/nvp2023/sessions.php).
-
-For information on the conference, venue, hotels and other practicalities please find a pdf [here](/pages/attachments/NVP-program-2023.pdf).
+The program is available [here](/pages/attachments/NVP-program-2023.pdf).
+Posters presented during poster session 1
+Posters presented during poster session 2
 
 ## Keynote speakers
 
@@ -65,7 +70,7 @@ computational explanation.
 Peripheral processes such as those related to the immune system and microbiome exert significant influence on motivated behavior. This symposium hosts three talks at the interdisciplinary intersection between neuroscience and psychoneuroimmunology. Two talks explore the effects of acute immune manipulations on motivation and cost-benefit decision making. The third talk focuses on translating this knowledge into new (preventive) health interventions. Attendees will gain a deeper understanding of the relevance of these findings for advancing mental health research.
 
 - Marieke van der Schaaf (chair/speaker)
-- Name Leonie Balter (speaker)
+- Leonie Balter (speaker)
 - Esther Aarts (speaker)
 
 ### Processing, predicting and remembering real-life experiences     
@@ -152,7 +157,7 @@ The documents should be sent as a single PDF file to sc@psychonomie.nl before **
  - Prof. dr. Sonja Kotz (Maastricht University)
  - Dr. Chris Paffen (Utrecht University)
 
-## NVP PhD Thesis Award
+## NVP PhD Thesis Award committee
 
  - Dr. Ben Harvey (Utrecht University)
  - MSc. Michelle Moerel (Maastricht University)
