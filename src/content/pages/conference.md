@@ -31,8 +31,8 @@ This year’s conference is organized by Prof. Peter Hagoort (Max Planck Institu
 
 ## Program
 The program is available [here](/pages/attachments/NVP-program-2023.pdf).
-Posters presented during poster session 1
-Posters presented during poster session 2
+Posters presented during poster [session 1](/pages/attachments/NVP-2023-Poster-session-1.pdf).
+Posters presented during poster [session 2](/pages/attachments/NVP-2023-Poster-session-2.pdf).
 
 ## Keynote speakers
 
